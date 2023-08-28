@@ -1,0 +1,6 @@
+polymorphism
+inheritance
+father
+mother
+apple
+orange
